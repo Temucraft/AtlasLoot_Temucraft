@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: AtlasLoot |cFF0099FF[Temucraft]|r
+## Notes: AtlasLoot loot tables for the Temucraft dungeons and raids
+## Author: Temucraft
+## Version: 1.0.0
+## X-Category: Map
+## X-Temucraft: loot tables made from the Temucraft world database by tools/gen_atlasloot_data.py
+## Dependencies: AtlasLoot
+
+Data.lua
+AtlasLoot_Temucraft.lua
